@@ -1,5 +1,5 @@
+![Desktop](https://github.com/diegorafacarvalho/responsividade/assets/116193697/b6dc5ba1-408b-479b-b2c1-8e6c6070e2ae)
 
-![old-paper-texture-beige-craft-cardboard-vintage-canvas-surface 1](https://github.com/diegorafacarvalho/responsividade/assets/116193697/cc8bf315-3008-4b08-9450-c076cfcac8ac)
 
 
 <h1 align="center"> HTML e CSS </h1>
